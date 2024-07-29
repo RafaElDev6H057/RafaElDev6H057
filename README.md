@@ -29,9 +29,9 @@ Descripción breve del proyecto 2. Agrega información sobre las tecnologías qu
 
 ## Contacto
 
+- [Portfolio](https://portfolio-coral-seven-65.vercel.app/)
 - [Correo Electrónico](rafadev6h057@gmail.com)
-- [LinkedIn](www.linkedin.com/in/rafael-pérez-esparza-68114031b)
-<!--- [Portfolio](enlace_a_tu_portfolio_si_tienes)-->
+- [LinkedIn](https://www.linkedin.com/in/rafael-p%C3%A9rez-esparza-68114031b/)
 
 ---
 
