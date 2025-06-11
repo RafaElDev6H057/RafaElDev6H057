@@ -15,10 +15,13 @@
 
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
 
-🚀 **Currently Learning:** Full-Stack Development  
-💻 **Languages:** JavaScript, Java, Python  
-🎮 **Hobbies:** Gaming & Music  
-🎯 **Philosophy:** Journey before Destination  
+- 🚀 **Currently Learning:** Full-Stack Development
+  
+- 💻 **Languages:** JavaScript, Java, Python
+    
+- 🎮 **Hobbies:** Gaming & Music
+    
+- 🎯 **Philosophy:** Journey before Destination  
 
 I'm passionate about creating efficient solutions and exploring new technologies. When I'm not coding, you'll find me enjoying some Hollow Knight or discovering new music!
 
