@@ -21,7 +21,7 @@
     
 - 🎮 **Hobbies:** Gaming & Music
     
-- 🎯 **Philosophy:** Journey before Destination  
+- 🎯 **Philosophy:** It’s not a bug – it’s an undocumented feature :b
 
 I'm passionate about creating efficient solutions and exploring new technologies. When I'm not coding, you'll find me enjoying some Hollow Knight or discovering new music!
 
@@ -55,6 +55,7 @@ I'm passionate about creating efficient solutions and exploring new technologies
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)
@@ -79,8 +80,7 @@ I'm passionate about creating efficient solutions and exploring new technologies
   </a>
 </div>
 
-## 💭 Quote
-
+## 
 <div align="center">
   <blockquote>
     <p><em>"Life before death, strength before weakness, journey before destination"</em></p>
