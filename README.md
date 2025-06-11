@@ -36,6 +36,8 @@ I'm passionate about creating efficient solutions and exploring new technologies
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)
+<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+
 
 ### Backend
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
@@ -82,7 +84,7 @@ I'm passionate about creating efficient solutions and exploring new technologies
     <p><strong>- Ancient Code of the Knights Radiant</strong></p>
   </blockquote>
 </div>
-
+<br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RafaElDev6H057&color=blueviolet&style=flat-square&label=Profile+Views">
 </div>
